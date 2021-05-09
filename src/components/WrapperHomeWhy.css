@@ -1,0 +1,25 @@
+.wrapper-why-sepprad{
+    padding-top: 5em;
+    padding-bottom: 3em;
+    position: relative;
+    z-index: 26;
+    max-width: 64em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 2em;
+    background: #fff;
+}
+
+.section-head{
+    text-align: center;
+    position: relative;
+    margin: 0 0 2.2em 0;
+}
+
+.title-section-head {
+    display: inline-block;
+    padding: 0 18px;
+    position: relative;
+    z-index: 100;
+    vertical-align: middle;
+}
